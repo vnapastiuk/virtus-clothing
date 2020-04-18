@@ -2,7 +2,7 @@
  import 'firebase/firestore';
  import 'firebase/auth';
  const config =  {
-      apiKey: "Your_Api_Key",
+           apiKey: "Your_Api_Key",
           authDomain: "_your_domain_.firebaseapp.com",
           databaseURL: "Your_API_db",
           projectId: "_your_protect_id",
@@ -10,7 +10,6 @@
           messagingSenderId: "_your_messaging_sender_id",
           appId: "_your_app_id",
           measurementId: "_id_"
-
   };
 
   
