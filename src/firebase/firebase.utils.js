@@ -2,14 +2,7 @@
  import 'firebase/firestore';
  import 'firebase/auth';
  const config =  {
-           apiKey: "Your_Api_Key",
-          authDomain: "_your_domain_.firebaseapp.com",
-          databaseURL: "Your_API_db",
-          projectId: "_your_protect_id",
-          storageBucket: "_your_storage_bucket",
-          messagingSenderId: "_your_messaging_sender_id",
-          appId: "_your_app_id",
-          measurementId: "_id_"
+    'CONFIG_DATA'
   };
 
   
