@@ -2,7 +2,7 @@
  import 'firebase/firestore';
  import 'firebase/auth';
  const config =  {
-      'CONFIG_DATA'
+    'YOUR_CONFIG_DATA_FROM_FIREBASE'
   };
 
   
