@@ -6,10 +6,10 @@ import { createStructuredSelector} from 'reselect';
 import { selectCartItems, selectCartTotal } from '../../redux/cart/cart.selectors';
 
 import CheckoutItem from '../../components/checkout-item/checkout-item.component';
-import StrioeCheckoutButton from '../../components/stripe-button/stripe-button.component';
+import StripeCheckoutButton from '../../components/stripe-button/stripe-button.component';
 
 import './checkout-page.style.scss';
-import StripeCheckoutButton from '../../components/stripe-button/stripe-button.component';
+
 
 const CheckoutPage = ({cartItems, total}) => (
     <div className='checkout-page'> 
