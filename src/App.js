@@ -13,6 +13,7 @@ import SignInAndSignUpPage from './pages/sign-in-and-sign-up-page/sign-in-and-si
 import CheckoutPage from './pages/checkout/checkout-page.component.jsx';
 
 import {auth, createUserProfileDocument} from './firebase/firebase.utils';
+
 import {setCurrentUser} from './redux/user/user.action';
 import { selectCurrentUser } from './redux/user/user.selector';
 
