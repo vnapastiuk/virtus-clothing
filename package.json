@@ -44,9 +44,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "repository": "git@github.com:VitalikN/virtus-clothing.git",
-  "author": "sunbetkapper@gmail.com <napvital@gmail.com>",
-  "license": "MIT"
+  }
 }
