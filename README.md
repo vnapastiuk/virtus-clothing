@@ -1,7 +1,6 @@
-## Lesson-26-complete
+## Lesson-30
 
-In this repository, all our components have been converted to styled-components!
-
+In this lesson we are doing a large refactor! We need to convert all our sign in, sign up and authentication persistence checks into sagas. We don't necessarily need to do this for our application, but this is a good way to practice writing sagas in a real world application that may not leverage firebase/firestore or the observer pattern.
 
 # How to fork and clone
 
